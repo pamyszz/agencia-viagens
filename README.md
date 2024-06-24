@@ -46,7 +46,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Desenvolvido com 💙 por [Seu Nome](https://github.com/seuusuario)**
+**Desenvolvido com 💙 por [Pamela](https://github.com/pamyszz)**
+**Ministrado por: Profª Débora Paixão ❤️**
 
 Visite a aplicação em [Agência de Viagens](https://agencia-viagens-vert.vercel.app/).
 
