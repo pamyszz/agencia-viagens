@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../imagens/escocia.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0px;
+    text-align: center;
+    
+}
+

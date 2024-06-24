@@ -1,0 +1,12 @@
+.corpo_texto{
+height: auto;
+width: 500px;
+background-color: #ffffffad;
+border-radius: 10px;   
+color: #5b6fe3;
+padding: 10px;
+}
+
+.imagem{
+    width: 50px;
+}

@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.nav_link ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.search{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+    gap: 10px;
+}
+
+.search input{
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+    background-color: transparent;
+    border: 1px solid rgb(185, 185, 185);
+}
+.lupa{
+    height: 20px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
